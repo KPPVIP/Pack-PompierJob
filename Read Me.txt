@@ -1,0 +1,9 @@
+Le Mapping : 		station24
+le job : 		esx_firejob
+le script incendie : 	firescript
+les véhicule : 		firepack
+
+start esx_firejob
+start firescript
+start station24
+start firepack
